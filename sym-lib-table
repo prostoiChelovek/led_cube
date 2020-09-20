@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name components)(type Legacy)(uri ${KIPRJMOD}/libs/components.lib)(options "")(descr ""))
+  (lib (name cube-rescue)(type Legacy)(uri ${KIPRJMOD}/cube-rescue.lib)(options "")(descr ""))
+)
