@@ -1667,10 +1667,13 @@ Text GLabel 1550 10550 0    50   Input ~ 0
 ser_out_6_g
 Text GLabel 1550 8650 0    50   Input ~ 0
 ser_out_6_b
-NoConn ~ 2950 3350
-NoConn ~ 2950 5250
-NoConn ~ 2950 7150
 NoConn ~ 2950 9150
 NoConn ~ 2950 11050
 NoConn ~ 2950 12950
+Text GLabel 2950 3350 2    50   Output ~ 0
+ser_out_6_b
+Text GLabel 2950 5250 2    50   Output ~ 0
+ser_out_6_g
+Text GLabel 2950 7150 2    50   Output ~ 0
+ser_out_6_r
 $EndSCHEMATC
